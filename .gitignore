@@ -17,3 +17,4 @@ ProjectTXT.txt
 .opencode/command
 node_modules/
 __pycache__/
+.opencode/agent
