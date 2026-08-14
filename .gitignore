@@ -18,3 +18,9 @@ ProjectTXT.txt
 node_modules/
 __pycache__/
 .opencode/agent
+
+# Memory dirs (personal, per-project; never commit)
+shortmemory/
+longmemory/
+oldmemories/
+data/
