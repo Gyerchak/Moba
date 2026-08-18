@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Moba
+GenericName=OpenCodeBox project terminal
+Comment=Open the Moba project terminal
+Exec=/run/media/hubertg/SONIC/OpenCodeBox/git-projects/Moba/box/scripts/Moba.sh launch
+TryExec=/run/media/hubertg/SONIC/OpenCodeBox/git-projects/Moba/box/scripts/Moba.sh
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;
